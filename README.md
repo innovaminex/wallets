@@ -8,7 +8,7 @@ Requirements for Linux and Linux Based ARM Devices.
 
 Install the required components with "apt-get install libboost-all-dev libqrencode-dev libminiupnpc-dev -y" . If you wish to have a full native app built, simply follow the build instructions for Unix.
 
-It is also possible to run INX Wallet 32bit Windows wallet on ARM 32bit native machines with ExaGear and Wine package. You can obtain ExaGear license and follow the setup guide from eltechs.com.
+It is also possible to run INX Wallet 32bit Windows wallet on ARM 32bit native machines with ExaGear and Wine package. You can obtain ExaGear license and follow the setup guide from https://docs.eltechs.com/install-and-configure-exagear-desktop.
 
 INX Development Team
 
