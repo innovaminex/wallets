@@ -1,4 +1,4 @@
-# Wallets
+# INX Wallets
 
 Requirements for Windows.
 
