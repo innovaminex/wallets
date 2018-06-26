@@ -23,8 +23,7 @@ tn5.innovaminex.com <br>
 
 Anti Censorship Network Access
 
-Simply download Tor bundle and insert proxy for your wallet as 127.0.0.1 with port 9150 to access INX thunder network.<br>
-Your wallet will automatically bypass any censorship to INX network. You have the option of adding the frontend node as:<br>
+InnovaMinex support full anonymity on INX Thunder network. Simply download Tor bundle and insert proxy for your wallet as 127.0.0.1 with port 9150 to access INX thunder network. Your wallet will automatically bypass any censorship to INX network. You have the option of manually adding the frontend nodes  from the Debug console as:
 
 addnode raziellohsmga3dt.onion add <br>
 addnode doctordwv3ovyiep.onion add <br>
