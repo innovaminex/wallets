@@ -25,8 +25,8 @@ Anti Censorship Network Access
 
 Simply download Tor bundle and insert proxy for your wallet as 127.0.0.1 with port 9150 to access INX thunder network.<br>
 Your wallet will automatically bypass any censorship to INX network. You have the option of adding the frontend node as:<br>
-"addnode dyzkv4gcknlkoecq.onion add" <br>
-"addnode fddbivpuea3auezw.onion add" <br>
+addnode dyzkv4gcknlkoecq.onion add <br>
+addnode fddbivpuea3auezw.onion add <br>
 
 INX Development Team <br>
 www.innovaminex.com
