@@ -33,5 +33,5 @@ addnode dyzkv4gcknlkoecq.onion add <br>
 addnode fddbivpuea3auezw.onion add <br>
 addnode v5jk3dkmyukckqu3.onion add <br>
 
-### INX Development Team 
+### INX Development Team
 www.innovaminex.com
