@@ -29,7 +29,7 @@ addnode thunderrfrxurt5z.onion add [ Serves as web server too ] <br>
 addnode raziellohsmga3dt.onion add <br>
 addnode doctordwv3ovyiep.onion add <br>
 addnode innovaqojfuc4lze.onion add <br>
-addnode dyzkv4gcknlkoecq.onion add <br>
+addnode arena6ljdnqwnaoh.onion add <br>
 addnode unravelgt7zs5lcr.onion add <br>
 addnode v5jk3dkmyukckqu3.onion add <br>
 
