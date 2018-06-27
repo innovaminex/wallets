@@ -35,6 +35,7 @@ addnode v5jk3dkmyukckqu3.onion add <br>
 
 ### Transaction Explorer
 
-http://www.explorerx3rzuqtj.onion
+www.explorerx3rzuqtj.onion
+
 ### INX Development Team
 www.innovaminex.com
