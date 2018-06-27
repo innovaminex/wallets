@@ -30,7 +30,7 @@ addnode raziellohsmga3dt.onion add <br>
 addnode doctordwv3ovyiep.onion add <br>
 addnode innovaqojfuc4lze.onion add <br>
 addnode dyzkv4gcknlkoecq.onion add <br>
-addnode fddbivpuea3auezw.onion add <br>
+addnode unravelgt7zs5lcr.onion add <br>
 addnode v5jk3dkmyukckqu3.onion add <br>
 
 ### INX Development Team
