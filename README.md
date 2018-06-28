@@ -33,6 +33,7 @@ addnode doctordwv3ovyiep.onion add <br>
 addnode innovaqojfuc4lze.onion add <br>
 addnode arena6ljdnqwnaoh.onion add ( Thunder Network Gateway ) <br> 
 addnode unravelgt7zs5lcr.onion add <br>
+addnode optimusi4r6nzx23.onion add <br>
 addnode v5jk3dkmyukckqu3.onion add <br>
 
 ### Transaction Explorer
