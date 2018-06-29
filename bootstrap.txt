@@ -7,11 +7,13 @@ __________               __            __
 
 Sync your wallet faster with the bootstrap.dat
 
-New wallets can take a while to download and sync the blockchain. This process can be sped up by using the bootstrap.dat file in the INX data directory.
+New wallets can take a while to download and sync the blockchain. This process can be sped up by using the bootstrap.dat file
+in the INX data directory.
 
 To take advantage of this:
 
-First download the bootstrap.dat file from InnovaMinex official github page. Then with the INX wallet closed, drop the bootstrap.dat file into the INX data directory respective to your operating system. On Windows Operating Systems, click "Start" and write %appdata% and press "Enter". Navigate to folder named "innovaminex"
+First download the bootstrap.dat file from InnovaMinex official github page. Then with the INX wallet closed, drop the bootstrap.dat file into the INX data directory respective to your operating system. On Windows Operating Systems, click "Start"
+and write %appdata% and press "Enter". Navigate to folder named "innovaminex"
 
 MacOS:
 
