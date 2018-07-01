@@ -1,4 +1,4 @@
-# INX Wallets
+# INX Wallets & Daemons
 
 ### Requirements for Windows.
 
