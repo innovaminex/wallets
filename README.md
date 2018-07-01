@@ -27,7 +27,7 @@ InnovaMinex supports full anonymity on INX Thunder network. Simply download Tor 
 
 ### Nodes
 
-addnode thunderrfrxurt5z.onion add ( Innovaminex Website too ) <br>
+addnode trexolym6pzariwe.onion add <br>
 addnode raziellohsmga3dt.onion add <br>
 addnode doctordwv3ovyiep.onion add <br>
 addnode innovaqojfuc4lze.onion add <br>
