@@ -1,3 +1,4 @@
+![alt text](https://github.com/innovaminex/source-code/blob/master/assets/logo.png) <br>
 # INX Wallets & Daemons
 
 ### Requirements for Windows.
