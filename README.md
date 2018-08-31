@@ -25,6 +25,11 @@ tn2.innovaminex.com <br>
 tn3.innovaminex.com <br>
 tn4.innovaminex.com <br>
 tn5.innovaminex.com <br>
+tn6.innovaminex.com <br>
+tn7.innovaminex.com <br>
+tn8.innovaminex.com <br>
+tn9.innovaminex.com <br>
+
 
 ## Anti Censorship Network Access
 
