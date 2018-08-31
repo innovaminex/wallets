@@ -19,3 +19,7 @@ Systems, click "Start" and write %appdata% and press "Enter". Navigate to folder
 MacOS:
 
 $HOME/Library/Application Support/innovaminex/ or /Users/username/Library/Application Support/innovaminex/
+
+Linux:
+
+$HOME/.innovaminex
