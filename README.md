@@ -52,3 +52,14 @@ http://explorerx3rzuqtj.onion
 
 ### INX Development Team
 www.innovaminex.com
+
+### Release Updates
+```
+........................................................................................
+:               Type               :  Need   :        Compatible      :     Reason     :
+:..................................:.........:........................:................:
+: Checkpoint Update                : Values  :           Yes          :    Security    :
+: Node Addon                       : Values  :           Yes          :    Security    :
+: Fix formatting in columns        : Values  :           Yes          :       Misc     :
+:..................................:.........:........................:................:
+```
