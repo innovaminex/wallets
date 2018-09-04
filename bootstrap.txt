@@ -16,6 +16,10 @@ First download the bootstrap.dat file from InnovaMinex official github page. The
 drop the bootstrap.dat file into the INX data directory respective to your operating system. On Windows Operating 
 Systems, click "Start" and write %appdata% and press "Enter". Navigate to folder named "innovaminex"
 
+Windows:
+
+Start--> Run ---> %appdata% ---> innovaminex
+
 MacOS:
 
 $HOME/Library/Application Support/innovaminex/ or /Users/username/Library/Application Support/innovaminex/
