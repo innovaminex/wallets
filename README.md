@@ -17,6 +17,17 @@ It is also possible to run INX Wallet 32bit Windows wallet on ARM 32bit native m
 
 In case of your router configuration issues, you can manually add nodes to your wallet from the Debug console. Add a single node using "addnode tn0.innovaminex.com add" . This node will start adding more nodes for your wallet itself.
 
+### Release Updates
+```
+........................................................................................
+:               Type               :  Need   :        Compatible      :     Reason     :
+:..................................:.........:........................:................:
+: Checkpoint Update                : Values  :           Yes          :    Security    :
+: Node Addon                       : Values  :           Yes          :    Security    :
+: Fix formatting in columns        : Values  :           Yes          :       Misc     :
+:..................................:.........:........................:................:
+```
+
 ### Nodes for manual addition.
 
 tn0.innovaminex.com <br>
@@ -52,14 +63,3 @@ http://explorerx3rzuqtj.onion
 
 ### INX Development Team
 www.innovaminex.com
-
-### Release Updates
-```
-........................................................................................
-:               Type               :  Need   :        Compatible      :     Reason     :
-:..................................:.........:........................:................:
-: Checkpoint Update                : Values  :           Yes          :    Security    :
-: Node Addon                       : Values  :           Yes          :    Security    :
-: Fix formatting in columns        : Values  :           Yes          :       Misc     :
-:..................................:.........:........................:................:
-```
