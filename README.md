@@ -19,13 +19,13 @@ In case of your router configuration issues, you can manually add nodes to your 
 
 ### Release Updates
 ```
-         ........................................................................................
-         :               Type               :  Need   :        Compatible      :     Reason     :
-         :..................................:.........:........................:................:
-         : Checkpoint Update                : Values  :           Yes          :    Security    :
-         : Node Addon                       : Values  :           Yes          :    Security    :
-         : Fix formatting in columns        : Values  :           Yes          :       Misc     :
-         :..................................:.........:........................:................:
+             ........................................................................................
+             :               Type               :  Need   :        Compatible      :     Reason     :
+             :..................................:.........:........................:................:
+             : Checkpoint Update                : Values  :           Yes          :    Security    :
+             : Node Addon                       : Values  :           Yes          :    Security    :
+             : Fix formatting in columns        : Values  :           Yes          :       Misc     :
+             :..................................:.........:........................:................:
 ```
 
 ### Nodes for manual addition.
