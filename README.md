@@ -20,11 +20,11 @@ In case of your router configuration issues, you can manually add nodes to your 
 ### Release Updates
 ```
              ........................................................................................
-             :               Type               :  Need   :        Compatible      :     Reason     :
+             :               Type               :  Needed :        Compatible      :     Reason     :
              :..................................:.........:........................:................:
-             : Checkpoint Update                : Values  :           Yes          :    Security    :
-             : Node Addon                       : Values  :           Yes          :    Security    :
-             : Fix formatting in columns        : Values  :           Yes          :       Misc     :
+             : Checkpoint Update                :  Values :           Yes          :    Security    :
+             : Node Addon                       :  Values :           Yes          :    Security    :
+             : Fix formatting in columns        :  Values :           Yes          :    GUI Fix     :
              : OpenSSL Compatible update        : Package :           Yes          :    Security    :
              :..................................:.........:........................:................:
 ```
