@@ -25,6 +25,7 @@ In case of your router configuration issues, you can manually add nodes to your 
              : Checkpoint Update                : Values  :           Yes          :    Security    :
              : Node Addon                       : Values  :           Yes          :    Security    :
              : Fix formatting in columns        : Values  :           Yes          :       Misc     :
+             : OpenSSL Compatible update        : Package :           Yes          :    Security    :
              :..................................:.........:........................:................:
 ```
 
