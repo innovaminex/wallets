@@ -26,6 +26,7 @@ In case of your router configuration issues, you can manually add nodes to your 
              : Node Addon                       :  Values :           Yes          :    Security    :
              : Fix formatting in columns        :  Values :           Yes          :    GUI Fix     :
              : OpenSSL Compatible update        : Package :           Yes          :    Security    :
+             : ARM Wallets Update               : Package :           Yes          :    Security    :
              :..................................:.........:........................:................:
 ```
 
