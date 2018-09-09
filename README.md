@@ -32,16 +32,16 @@ In case of your router configuration issues, you can manually add nodes to your 
 
 ### Nodes for manual addition.
 
-tn0.innovaminex.com <br>
-tn1.innovaminex.com <br> 
-tn2.innovaminex.com <br>
-tn3.innovaminex.com <br>
-tn4.innovaminex.com <br>
-tn5.innovaminex.com <br>
-tn6.innovaminex.com <br>
-tn7.innovaminex.com <br>
-tn8.innovaminex.com <br>
-tn9.innovaminex.com <br>
+addnode tn0.innovaminex.com add<br>
+addnode tn1.innovaminex.com add<br> 
+addnode tn2.innovaminex.com add<br>
+addnode tn3.nnovaminex.com add<br>
+addnode tn4.innovaminex.com add br>
+addnode tn5.innovaminex.com add<br>
+addnode tn6.innovaminex.com add<br>
+addnode tn7.innovaminex.com add<br>
+addnode tn8.innovaminex.com add<br>
+addnode tn9.innovaminex.com add<br>
 
 
 ## Anti Censorship Network Access
