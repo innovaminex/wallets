@@ -36,7 +36,7 @@ addnode tn0.innovaminex.com add<br>
 addnode tn1.innovaminex.com add<br> 
 addnode tn2.innovaminex.com add<br>
 addnode tn3.nnovaminex.com add<br>
-addnode tn4.innovaminex.com add br>
+addnode tn4.innovaminex.com add <br>
 addnode tn5.innovaminex.com add<br>
 addnode tn6.innovaminex.com add<br>
 addnode tn7.innovaminex.com add<br>
