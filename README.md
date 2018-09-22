@@ -27,6 +27,7 @@ In case of your router configuration issues, you can manually add nodes to your 
              : Fix formatting in columns        :  Values :           Yes          :    GUI Fix     :
              : OpenSSL Compatible update        : Package :           Yes          :    Security    :
              : XU4 ARM Wallet Update            : Package :           Yes          :    Bug Fix     :
+             : RPI3 ARM Wallet Update           : Package :           Yes          :  Enhancement   :
              :..................................:.........:........................:................:
 ```
 
