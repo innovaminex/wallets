@@ -7,7 +7,7 @@
 
 ### Requirements for Windows.
 
-You need to download Visual C++ redistributable package from Microsoft https://www.microsoft.com/en-us/download/details.aspx?id=48145 . The configuration file and data directory is created automatically when you first run the wallet on Windows. There is no need to specify nodes as the INX Thunder network will announce nodes and other wallet connections from the network itself. 
+You need to download Visual C++ redistributable package from Microsoft https://www.microsoft.com/en-us/download/details.aspx?id=48145 . The configuration file and data directory is created automatically when you first run the wallet on Windows. There is no need to specify nodes as the INX Thunder network will announce nodes and other wallet connections from the network itself. Please note that Windows gives a message about wallet as unsigned software the first time you run it on your computer. It is because QT wallet is additional software and not certified by Microsoft Corporation. 
 
 ### Requirements for Linux and Linux Based ARM Devices.
 
