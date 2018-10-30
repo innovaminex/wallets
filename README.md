@@ -59,6 +59,7 @@ addnode inxnetw43selp3hb.onion add <br>
 addnode inxnet3iliy3sky7.onion add <br>
 addnode optimusi4r6nzx23.onion add <br>
 addnode doctordwv3ovyiep.onion add <br>
+addnode blackupwm3wyemmw.onion add <br>
 
 ### Transaction Explorer
 
