@@ -62,7 +62,7 @@ addnode doctordwv3ovyiep.onion add <br>
 
 ### Transaction Explorer
 
-http://explorerx3rzuqtj.onion
+http://explorek2qzngxif.onion
 
 ### INX Development Team
 www.innovaminex.com
