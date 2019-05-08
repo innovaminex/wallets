@@ -67,5 +67,4 @@ addnode blackupwm3wyemmw.onion add <br>
 http://explorek2qzngxif.onion
 
 ### INX Development Team
-www.innovaminex.com <br>
-www.cwd.systems
+www.innovaminex.com
